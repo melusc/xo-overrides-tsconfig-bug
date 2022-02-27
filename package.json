@@ -1,0 +1,11 @@
+{
+	"devDependencies": {
+		"@typescript-eslint/parser": "^5.12.1",
+		"eslint": "^8.10.0",
+		"xo": "^0.48.0"
+	},
+	"scripts": {
+		"eslint": "eslint index.ts",
+		"xo": "xo index.ts"
+	}
+}
